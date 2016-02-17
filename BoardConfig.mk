@@ -35,7 +35,7 @@ TARGET_GCC_VERSION_EXP := 5.3
 # Optimization
 CLANG_O3 := true
 STRICT_ALIASING := false
-KRAIT_TUNINGS := false
+KRAIT_TUNINGS := true
 GRAPHITE_OPTS := false
 ENABLE_GCCONLY := false
 
